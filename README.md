@@ -15,6 +15,13 @@ This repository serves as the foundation for further development. The project is
 
 ## Future Directions  
 Project Harmonics will continue to evolve with improvements in data processing, sound design, and interactivity. The goal is to create a tool that bridges scientific data and auditory perception in a meaningful way.  
+## Usage
+Run the sonification script with:
+
+```bash
+python scripts/sonify_dataset.py data/Processed/Particle_set1_C.csv output.mid
+```
+
 
 ## Contributing  
 Contributions are welcome. If you are interested in collaborating or have suggestions, please open an issue or submit a pull request.  
