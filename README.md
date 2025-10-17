@@ -3,7 +3,7 @@
 ## Overview  
 Project Harmonics was originally developed in 2023 as an initiative to explore data sonification for scientific outreach. The project aimed to make particle physics more accessible by mapping collision data to musical parameters such as pitch, velocity, and timing. The initial implementation used MIDI-based mappings to translate particle attributes into sound, creating an auditory representation of scientific data.  
 
-For more details about the original project, visit **[Project Harmonics](https://projectharmonics.wixsite.com/about)**. *(Note: This site will soon be deprecated, and relevant details will be migrated to my personal portfolio, which is currently under development.)*  
+For more details about the original project, visit **[Project Harmonics](https://projectharmonics.wixsite.com/about)**. *(Note: This site may be deprecated in the future. If it becomes inaccessible, relevant details can also be found on my personal portfolio, which you can check out [here](https://koiiichi.github.io/mh-site/#projects).)*  
 
 This repository serves as the foundation for further development. The project is now being expanded to improve the expressiveness, accuracy, and interactivity of the sonification process. New methodologies, including advanced data processing techniques and real-time interaction, will be introduced to enhance the auditory representation of particle physics.  
 
